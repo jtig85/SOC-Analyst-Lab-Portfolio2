@@ -19,7 +19,7 @@ It includes log analysis, threat detection, SIEM investigation, and network pack
 - Recognizing brute force and malware patterns
 
 ### Screenshots:
-- ![Splunk Query](images/splunk-query.png)
+
   
 ---
 
@@ -34,10 +34,6 @@ It includes log analysis, threat detection, SIEM investigation, and network pack
 - Packet capture of simulated attack traffic
 - DNS tunneling detection
 - HTTP GET/POST analysis
-
-### Screenshots:
-![Wireshark DNS Tunneling](images/Wireshark_DNS_Tunneling_Example.png)
-![Incident Report Sample](images/Incident_Report_Sample.png)
 ---
 
 ## 📄 Sample Incident Report
@@ -63,7 +59,7 @@ Initial access achieved via brute-force SSH attack.
 
 ---
 
-
+### Screenshots:
 ![Incident_Report_Sample](https://github.com/user-attachments/assets/a91e703c-a7f7-41dc-8b2b-4d58956741fb)
 ![Wireshark_DNS_Tunneling_Example](https://github.com/user-attachments/assets/a878e109-30c7-40bb-934d-396d26f9c2f4)
 ![Splunk_Log_Analysis_Example](https://github.com/user-attachments/assets/bde3be9b-ccd1-4213-9d25-e998ac6a0033)
