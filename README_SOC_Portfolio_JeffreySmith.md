@@ -1,11 +1,9 @@
 # SOC Analyst Lab Portfolio – Jeffrey Smith
 
 This repository showcases my hands-on training in cybersecurity, focused on skills relevant to a Security Operations Center (SOC) role.
-It includes log analysis, threat detection, SIEM investigation, and network packet analysis using tools like Splunk, Wireshark, and TryHackMe.
+It includes log analysis, threat detection, SIEM investigation, and network packet analysis using tools like Splunk, and Wireshark.
 
 ---
-
-## 🧪 TryHackMe: SOC Level 1 Path
 
 ### Labs Completed:
 - Intro to Splunk
@@ -17,10 +15,7 @@ It includes log analysis, threat detection, SIEM investigation, and network pack
 - Alert triage and event correlation
 - Basic incident handling using simulated logs
 - Recognizing brute force and malware patterns
-
-### Screenshots:
-
-  
+ 
 ---
 
 ## 🧪 Home Lab: Wireshark & Kali Linux
