@@ -20,8 +20,7 @@ It includes log analysis, threat detection, SIEM investigation, and network pack
 
 ### Screenshots:
 - ![Splunk Query](images/splunk-query.png)
-- ![TryHackMe SOC Progress](images/tryhackme-socpath.png)
-
+  
 ---
 
 ## 🧪 Home Lab: Wireshark & Kali Linux
@@ -37,8 +36,8 @@ It includes log analysis, threat detection, SIEM investigation, and network pack
 - HTTP GET/POST analysis
 
 ### Screenshots:
-- ![Wireshark PCAP](images/wireshark-pcap.png)
-
+![Wireshark DNS Tunneling](images/Wireshark_DNS_Tunneling_Example.png)
+![Incident Report Sample](images/Incident_Report_Sample.png)
 ---
 
 ## 📄 Sample Incident Report
@@ -64,8 +63,4 @@ Initial access achieved via brute-force SSH attack.
 
 ---
 
-## 🧠 Platforms Used
-- TryHackMe
-- RangeForce (Community Edition)
-- LinkedIn Learning
-- Cybrary
+
